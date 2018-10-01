@@ -32,4 +32,5 @@
 	</div>
 
 	</div><!-- .entry-content -->
+	<p> copyright &copy; 2018 </p>
 </article><!-- #post-0 -->
